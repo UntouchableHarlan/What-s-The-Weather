@@ -12,6 +12,7 @@
 		64AF18A71DA2C4030074B5F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64AF18A51DA2C4030074B5F2 /* Main.storyboard */; };
 		64AF18A91DA2C4030074B5F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64AF18A81DA2C4030074B5F2 /* Assets.xcassets */; };
 		64AF18AC1DA2C4030074B5F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64AF18AA1DA2C4030074B5F2 /* LaunchScreen.storyboard */; };
+		64AF18B41DA2C67C0074B5F2 /* weather.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 64AF18B31DA2C67C0074B5F2 /* weather.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		64AF18A81DA2C4030074B5F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64AF18AB1DA2C4030074B5F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		64AF18AD1DA2C4030074B5F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64AF18B31DA2C67C0074B5F2 /* weather.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weather.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				64AF18A31DA2C4030074B5F2 /* ViewController.swift */,
 				64AF18A51DA2C4030074B5F2 /* Main.storyboard */,
 				64AF18A81DA2C4030074B5F2 /* Assets.xcassets */,
+				64AF18B31DA2C67C0074B5F2 /* weather.jpeg */,
 				64AF18AA1DA2C4030074B5F2 /* LaunchScreen.storyboard */,
 				64AF18AD1DA2C4030074B5F2 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64AF18B41DA2C67C0074B5F2 /* weather.jpeg in Resources */,
 				64AF18AC1DA2C4030074B5F2 /* LaunchScreen.storyboard in Resources */,
 				64AF18A91DA2C4030074B5F2 /* Assets.xcassets in Resources */,
 				64AF18A71DA2C4030074B5F2 /* Main.storyboard in Resources */,
